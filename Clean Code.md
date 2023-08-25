@@ -167,9 +167,20 @@ public class RefactoringExample {
 ## Cita Relevante ✨
 
 
->"Escribe pruebas hasta que el miedo a los errores sea reemplazado por el aburrimiento."
+>"Si deseas ir rápido, si quieres terminar rápidamente, si quieres que tu código sea fácil de escribir, hazlo fácil de leer."
  — Robert C. Martin, "Clean Code"
 
- Esta cita subraya la idea de que al escribir suficientes pruebas unitarias para el código, uno se vuelve tan seguro en la calidad del software que el temor a la introducción de errores disminuye. Inicialmente, los desarrolladores pueden ser cautelosos y preocupados por los errores no detectados que podrían surgir en su código. Sin embargo, al escribir pruebas exhaustivas y ver cómo el conjunto de pruebas detecta y evita errores, esa ansiedad se disipa gradualmente.
+Esta cita resalta la importancia de escribir código que sea fácil de leer y comprender, incluso si tu objetivo principal es escribirlo rápidamente. Es decir, aunque tu enfoque sea en la velocidad y eficiencia al programar, es crucial asegurarse de que el código resultante sea claro y comprensible. Aquí hay una explicación más detallada:
 
-En lugar de temer posibles errores, los desarrolladores experimentan una confianza creciente en que el código es robusto y cumple con su funcionalidad prevista. Cuando la mayoría de los posibles escenarios han sido cubiertos por pruebas y no se encuentran nuevos errores, se llega a un punto en el que las pruebas se vuelven aburridas porque constantemente validan la correctitud del código
+#### Reducción de la Complejidad:
+ El código claro tiende a ser menos complejo, lo que facilita comprender la lógica y el flujo del programa. Esto puede resultar en menos errores y menos casos de comportamiento no deseado.
+
+#### Ahorro a Largo Plazo: 
+Aunque escribir un código limpio y claro puede llevar un poco más de tiempo inicialmente, esto se compensa a largo plazo. A medida que el proyecto evoluciona, el tiempo ahorrado en depuración, mantenimiento y comprensión del código supera el tiempo dedicado a escribirlo.
+
+#### Documentación:
+ El código bien escrito a menudo actúa como su propia documentación. Cuando el código es claro y legible, se convierte en un recurso valioso para comprender cómo funciona el programa.
+
+ #### Refactorización Más Sencilla:
+  La refactorización, es decir, mejorar la estructura interna del código sin cambiar su comportamiento externo, se vuelve más simple cuando el código es fácil de leer. Los desarrolladores pueden hacer cambios con confianza, sabiendo que pueden entender el impacto.
+
