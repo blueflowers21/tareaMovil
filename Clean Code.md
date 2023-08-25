@@ -111,7 +111,7 @@ Timely: Las pruebas se escriben al mismo tiempo que el código que están proban
  Código más limpio, menos redundante y más fácil de entender y mantener. También ayuda a prevenir la acumulación de deuda técnica.
 
 ### Ejemplo Práctico: 
-Considera este fragmento de código en Python que calcula el promedio de una lista de números:
+
 ```java
 
 import java.util.ArrayList;
