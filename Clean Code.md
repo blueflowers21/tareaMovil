@@ -167,20 +167,21 @@ public class RefactoringExample {
 ## Cita Relevante ✨
 
 
->"Si deseas ir rápido, si quieres terminar rápidamente, si quieres que tu código sea fácil de escribir, hazlo fácil de leer."
- — Robert C. Martin, "Clean Code"
+>"En  el software,  los  nombres  son  omnipresentes."
+ — Robert C. Martin, "Clean Code" (pg 41)
 
-Esta cita resalta la importancia de escribir código que sea fácil de leer y comprender, incluso si tu objetivo principal es escribirlo rápidamente. Es decir, aunque tu enfoque sea en la velocidad y eficiencia al programar, es crucial asegurarse de que el código resultante sea claro y comprensible. Aquí hay una explicación más detallada:
+Esta cita resalta la importancia fundamental de la elección de nombres en el desarrollo de software. 
+En programación, los "nombres" se refieren a los identificadores que se utilizan para representar variables, funciones, clases, métodos y otros elementos en el código. Estos nombres son esenciales para comunicar la función y el propósito de los componentes del software tanto a los desarrolladores que escriben el código como a aquellos que lo leen y mantienen en el futuro. Aquí hay algunas razones por las cuales los nombres son tan cruciales:
 
-#### Reducción de la Complejidad:
- El código claro tiende a ser menos complejo, lo que facilita comprender la lógica y el flujo del programa. Esto puede resultar en menos errores y menos casos de comportamiento no deseado.
+#### Claridad y Comunicación: 
+Los nombres descriptivos y significativos ayudan a otros desarrolladores (incluido el propio desarrollador en el futuro) a entender la intención y el comportamiento de un componente sin necesidad de profundizar en su implementación. Esto mejora la comprensión general del código y facilita la colaboración.
 
-#### Ahorro a Largo Plazo: 
-Aunque escribir un código limpio y claro puede llevar un poco más de tiempo inicialmente, esto se compensa a largo plazo. A medida que el proyecto evoluciona, el tiempo ahorrado en depuración, mantenimiento y comprensión del código supera el tiempo dedicado a escribirlo.
+#### Legibilidad y Mantenibilidad:
+ Nombres bien elegidos hacen que el código sea más legible. Cuando alguien lee el código, puede entender rápidamente qué hace cada elemento, lo que simplifica el proceso de mantenimiento y modificación.
 
-#### Documentación:
- El código bien escrito a menudo actúa como su propia documentación. Cuando el código es claro y legible, se convierte en un recurso valioso para comprender cómo funciona el programa.
+ #### Facilita la Depuración: 
+ Encontrar errores y depurar problemas es más sencillo cuando los nombres son representativos. Los nombres confusos o inapropiados pueden llevar a confusiones y dificultades al tratar de identificar errores.
 
- #### Refactorización Más Sencilla:
-  La refactorización, es decir, mejorar la estructura interna del código sin cambiar su comportamiento externo, se vuelve más simple cuando el código es fácil de leer. Los desarrolladores pueden hacer cambios con confianza, sabiendo que pueden entender el impacto.
+#### Buena Práctica de Desarrollo:
+ Elegir buenos nombres es una práctica esencial de desarrollo de software. Ayuda a promover la adhesión a principios de código limpio y buenas prácticas de programación.
 
